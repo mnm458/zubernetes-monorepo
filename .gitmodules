@@ -1,0 +1,18 @@
+[submodule "zk8s-verifier-contracts"]
+	path = zk8s-verifier-contracts
+	url = https://github.com/kyzooghost/zk8s-verifier.git
+[submodule "dashboard-ui"]
+	path = dashboard-ui
+	url = https://github.com/kyzooghost/ra-quote-explorer.git
+[submodule "ra-verifier-backend"]
+	path = ra-verifier-backend
+	url = https://github.com/kyzooghost/ra-verifier-monorepo.git
+[submodule "zubernetes"]
+	path = zubernetes
+	url = https://github.com/mnm458/zubernetes.git
+[submodule "gramine-zub"]
+	path = gramine-zub
+	url = https://github.com/mnm458/gramine-zub.git
+[submodule "zk-fib"]
+	path = zk-fib
+	url = https://github.com/mnm458/zk-fib.git
